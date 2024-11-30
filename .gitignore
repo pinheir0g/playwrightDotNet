@@ -1,0 +1,57 @@
+# ============================
+# Arquivos e pastas gerados pelo .NET
+# ============================
+
+# Pastas de build
+bin/
+obj/
+out/
+
+# Pacotes NuGet
+*.nupkg
+.nuget/
+
+# Arquivos de cache
+*.cache
+*.dll
+*.exe
+*.pdb
+
+# Configurações do usuário
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Logs
+*.log
+
+
+# ============================
+# Sistema Operacional
+# ============================
+
+# Arquivos do macOS
+.DS_Store
+
+# Arquivos do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ============================
+# Outros
+# ============================
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Backup de arquivos
+*~
+*.bak
+*.backup
